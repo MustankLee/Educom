@@ -41,7 +41,7 @@ export const DataNav = [
     },
     {
         "icon": <MdDashboardCustomize/>,
-        "name": "Kesimpulan",
+        "name": "Informasi",
         "to": "/six"
     },
     {
