@@ -1,5 +1,7 @@
-import Pict from "../Assets/ProfileRico.png"
-import PictFen from "../Assets/ProfileFendy.jpg"
+import Pict from "../Assets/ProfileRico.png";
+import PictFen from "../Assets/ProfileFendy.jpg";
+import PictDean from "../Assets/ProfileDean.jpg";
+import PictDev from "../Assets/ProfileDevi.jpg"
 
 export const CreatorData = [
     {
@@ -18,14 +20,14 @@ export const CreatorData = [
     },
     {
         "name": "DEAN YANKRIS HAREFA",
-        "img": Pict,
+        "img": PictDean,
         "nim": "2440045331",
         "class": "LA01",
         "major": "Computer Science",
     },
     {
         "name": "DEVI AYUNINGSIH",
-        "img": Pict,
+        "img": PictDev,
         "nim": "2440049115",
         "class": "LA01",
         "major": "Computer Science",

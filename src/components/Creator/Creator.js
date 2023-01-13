@@ -14,7 +14,7 @@ export default function Creator() {
           CreatorData.map((items, index) => {
             return (
               <div key={index} className='w-fit flex p-2 border-2 border-slate-400 rounded-md'>
-              <img src={items.img} alt="" className='w-32 h-32 rounded-md' />
+              <div className='w-32 h-32 rounded-md' style={{backgroundImage:`url(${items.img})`, backgroundSize:"cover", backgroundPosition: "center top"}}></div>
               <div className='ml-3 flex flex-col justify-around'>
                 <div className='font-bold text-xl'>{items.name}</div>
                 <div className=''>
