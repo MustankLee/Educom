@@ -1,7 +1,8 @@
 import Pict from "../Assets/ProfileRico.png";
 import PictFen from "../Assets/ProfileFendy.jpg";
 import PictDean from "../Assets/ProfileDean.jpg";
-import PictDev from "../Assets/ProfileDevi.jpg"
+import PictDev from "../Assets/ProfileDevi.jpg";
+import PictEll from "../Assets/ProfileEllin.jpg";
 
 export const CreatorData = [
     {
@@ -13,7 +14,7 @@ export const CreatorData = [
     },
     {
         "name": "ELLIN ANGGRIANI",
-        "img": Pict,
+        "img": PictEll,
         "nim": "2440050615",
         "class": "LA01",
         "major": "Computer Science",
