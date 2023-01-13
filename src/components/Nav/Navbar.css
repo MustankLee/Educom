@@ -1,0 +1,10 @@
+.tr {
+    -webkit-transition-duration: 0.5s;
+    transition-duration: 0.5s;
+}
+
+nav a.active {
+    color: white;
+    background: linear-gradient(to right, rgb(147 51 234), rgb(59 130 246));
+    box-shadow: -2px 4px 5px rgba(0, 0, 0, 0.423);
+}
