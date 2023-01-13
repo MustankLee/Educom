@@ -1,6 +1,8 @@
 import React from 'react'
 import { CreatorData } from "./CreatorData.js"
 import "./Creator.css"
+import Footer from '../Footer/Footer.js';
+
 
 export default function Creator() {
   return (
@@ -37,6 +39,7 @@ export default function Creator() {
           })
         }
       </div>
+      <Footer/>
     </div>
   )
 }
