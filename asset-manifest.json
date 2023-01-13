@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/web-infiz-group-5/static/css/main.9c33432e.css",
-    "main.js": "/web-infiz-group-5/static/js/main.fa214fab.js",
+    "main.css": "/web-infiz-group-5/static/css/main.c45afb11.css",
+    "main.js": "/web-infiz-group-5/static/js/main.1d44a65b.js",
     "static/media/ProfileRico.png": "/web-infiz-group-5/static/media/ProfileRico.68c01b4743b98265b5bc.png",
     "static/media/Educom.png": "/web-infiz-group-5/static/media/Educom.88fdb591dff05b369e24.png",
     "static/media/ProfileFendy.jpg": "/web-infiz-group-5/static/media/ProfileFendy.11c252c138cdb7594ec7.jpg",
     "index.html": "/web-infiz-group-5/index.html",
-    "main.9c33432e.css.map": "/web-infiz-group-5/static/css/main.9c33432e.css.map",
-    "main.fa214fab.js.map": "/web-infiz-group-5/static/js/main.fa214fab.js.map"
+    "main.c45afb11.css.map": "/web-infiz-group-5/static/css/main.c45afb11.css.map",
+    "main.1d44a65b.js.map": "/web-infiz-group-5/static/js/main.1d44a65b.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c33432e.css",
-    "static/js/main.fa214fab.js"
+    "static/css/main.c45afb11.css",
+    "static/js/main.1d44a65b.js"
   ]
 }
