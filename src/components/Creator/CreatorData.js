@@ -1,17 +1,9 @@
-import Pict from "../Assets/ProfileRico.png";
 import PictFen from "../Assets/ProfileFendy.jpg";
 import PictDean from "../Assets/ProfileDean.jpg";
 import PictDev from "../Assets/ProfileDevi.jpg";
 import PictEll from "../Assets/ProfileEllin.jpg";
 
 export const CreatorData = [
-    {
-        "name": "RICO SUSANTO",
-        "img": Pict,
-        "nim": "2440057363",
-        "class": "LA01",
-        "major": "Computer Science",
-    },
     {
         "name": "ELLIN ANGGRIANI",
         "img": PictEll,

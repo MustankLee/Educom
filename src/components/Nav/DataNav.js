@@ -7,6 +7,7 @@ import { BsFillPersonBadgeFill } from "react-icons/bs";
 import { GiShop } from "react-icons/gi";
 import { RiEarthFill } from "react-icons/ri"
 import { GiTwoCoins } from "react-icons/gi";
+import { HiDocumentReport } from "react-icons/hi"
 
 export const DataNav = [
     {
