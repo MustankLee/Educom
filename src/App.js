@@ -13,7 +13,7 @@ import Kreator from "./components/Creator/Creator.js";
 function App() {
   return (
     <div className="App">
-      <Router basename="/web-infiz-group-5">
+      <Router basename="/Educom">
         <div className="overflow-y-hidden">
           <Navbar />
         </div>
