@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Educom/static/css/main.705384bd.css",
-    "main.js": "/Educom/static/js/main.9cb9bb2d.js",
+    "main.css": "/Educom/static/css/main.23551de1.css",
+    "main.js": "/Educom/static/js/main.4f22f74d.js",
     "static/media/ProfileRico.png": "/Educom/static/media/ProfileRico.68c01b4743b98265b5bc.png",
     "static/media/Educom.png": "/Educom/static/media/Educom.88fdb591dff05b369e24.png",
     "static/media/ProfileFendy.jpg": "/Educom/static/media/ProfileFendy.11c252c138cdb7594ec7.jpg",
     "static/media/ProfileEllin.jpg": "/Educom/static/media/ProfileEllin.21f9e66e20e38c5f4a5c.jpg",
     "index.html": "/Educom/index.html",
-    "main.705384bd.css.map": "/Educom/static/css/main.705384bd.css.map",
-    "main.9cb9bb2d.js.map": "/Educom/static/js/main.9cb9bb2d.js.map"
+    "main.23551de1.css.map": "/Educom/static/css/main.23551de1.css.map",
+    "main.4f22f74d.js.map": "/Educom/static/js/main.4f22f74d.js.map"
   },
   "entrypoints": [
-    "static/css/main.705384bd.css",
-    "static/js/main.9cb9bb2d.js"
+    "static/css/main.23551de1.css",
+    "static/js/main.4f22f74d.js"
   ]
 }
